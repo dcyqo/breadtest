@@ -1,0 +1,919 @@
+[
+  {
+    "id": "c01",
+    "name": "Хлеб-соль",
+    "rarity": "common",
+    "points": 1000,
+    "coins": 2,
+    "desc": "Хлеб с солью бывает очень вкусный, особенно в такой форме",
+    "file_id": "https://files.catbox.moe/6lwhbp.jpg"
+  },
+  {
+    "id": "c02",
+    "name": "Злой хлеб",
+    "rarity": "common",
+    "points": 1000,
+    "coins": 2,
+    "desc": "Хлеб который очёнь зол на тебя, ты его не съел",
+    "file_id": "https://files.catbox.moe/ws8y1m.jpg"
+  },
+  {
+    "id": "c03",
+    "name": "Чёрный хлеб",
+    "rarity": "common",
+    "points": 1000,
+    "coins": 2,
+    "desc": "Черная буханка хлеба, любимая для закуски",
+    "file_id": "https://files.catbox.moe/mnfw29.jpg"
+  },
+  {
+    "id": "c04",
+    "name": "Пухлая булка",
+    "rarity": "common",
+    "points": 1000,
+    "coins": 2,
+    "desc": "Очень пышная, ароматная а также мягкая на вкус",
+    "file_id": "https://files.catbox.moe/7el9m2.jpg"
+  },
+  {
+    "id": "c05",
+    "name": "Угольный хлеб",
+    "rarity": "common",
+    "points": 1000,
+    "coins": 2,
+    "desc": "Чёрный как уголь, мягкий как хлеб. Выглядит так, будто его достали прямо из печи шахтёра. Не испачкай руки - а то подумают что ты всю смену провёл в шахте!",
+    "file_id": "https://files.catbox.moe/jbiswz.jpg"
+  },
+  {
+    "id": "c06",
+    "name": "Обычный ломтик",
+    "rarity": "common",
+    "points": 1000,
+    "coins": 2,
+    "desc": "Самый обычный ломтик хлеба. Попробуй и узнай, каков хлеб на вкус",
+    "file_id": "https://files.catbox.moe/ko54bu.jpg"
+  },
+  {
+    "id": "c07",
+    "name": "Коллекция яиц",
+    "rarity": "common",
+    "points": 1000,
+    "coins": 2,
+    "desc": "Это хлебная коллекция яиц прямо из моего холодильника",
+    "file_id": "https://files.catbox.moe/7a13qp.jpg"
+  },
+  {
+    "id": "c08",
+    "name": "Мусорный мешок",
+    "rarity": "common",
+    "points": 1000,
+    "coins": 2,
+    "desc": "В нём лежит заплесневелый хлеб, который давно было пора выкинуть",
+    "file_id": "https://files.catbox.moe/53v1nj.jpg"
+  },
+  {
+    "id": "c09",
+    "name": "Гадкая крыса",
+    "rarity": "common",
+    "points": 1000,
+    "coins": 2,
+    "desc": "Выглядит мило но может перетаскивать множество болезней. Тот ещё монстр, который любит воровать твою еду",
+    "file_id": "https://files.catbox.moe/q5fu98.jpg"
+  },
+  {
+    "id": "c10",
+    "name": "Хлебный создатель",
+    "rarity": "common",
+    "points": 1000,
+    "coins": 2,
+    "desc": "Это создатель хлебных карт, я серьёзно",
+    "file_id": "https://files.catbox.moe/1b6pgm.jpg"
+  },
+  {
+    "id": "u01",
+    "name": "Хлебный нищеброд",
+    "rarity": "uncommon",
+    "points": 1500,
+    "coins": 3,
+    "desc": "Я не знаю почему, но он лежит на большом матрасе просто он любитель хлеба",
+    "file_id": "https://files.catbox.moe/nk3rg2.jpg"
+  },
+  {
+    "id": "u02",
+    "name": "Хлебная полка",
+    "rarity": "uncommon",
+    "points": 1500,
+    "coins": 3,
+    "desc": "Очень много собак в виде хлеба, очень.. Но они такие милые",
+    "file_id": "https://files.catbox.moe/hj25yf.jpg"
+  },
+  {
+    "id": "u03",
+    "name": "Хлебные тапочки",
+    "rarity": "uncommon",
+    "points": 1500,
+    "coins": 3,
+    "desc": "Эти тапки только что испекли, не обожгись пока будешь их носить",
+    "file_id": "https://files.catbox.moe/wj7v1r.jpg"
+  },
+  {
+    "id": "u04",
+    "name": "Пупырчатый хлеб",
+    "rarity": "uncommon",
+    "points": 1500,
+    "coins": 3,
+    "desc": "Выглядит как пупырки, хочется лопнуть но не получится",
+    "file_id": "https://files.catbox.moe/9zke97.jpg"
+  },
+  {
+    "id": "u05",
+    "name": "Хлебный нож",
+    "rarity": "uncommon",
+    "points": 1500,
+    "coins": 3,
+    "desc": "Нож из хлеба? Он не сможет ничего порезать, даже лист бумаги",
+    "file_id": "https://files.catbox.moe/80hafo.jpg"
+  },
+  {
+    "id": "u06",
+    "name": "Просто милый хлебушек",
+    "rarity": "uncommon",
+    "points": 1500,
+    "coins": 3,
+    "desc": "Самый обычный хлеб, но просто миленький. Даже есть не хочется",
+    "file_id": "https://files.catbox.moe/2o2v1i.jpg"
+  },
+  {
+    "id": "u07",
+    "name": "Обычная кружка с чаем",
+    "rarity": "uncommon",
+    "points": 1500,
+    "coins": 3,
+    "desc": "Не бойся, данная кружка не размокнет. Пей с удовольствием",
+    "file_id": "https://files.catbox.moe/in638v.jpg"
+  },
+  {
+    "id": "u08",
+    "name": "Хлеб Дракула",
+    "rarity": "uncommon",
+    "points": 1500,
+    "coins": 3,
+    "desc": "Аристократ вампир из Хлебсильвании. Самый главный вампир,живущий тысячелетиями.",
+    "file_id": "https://files.catbox.moe/1mpzn6.jpg"
+  },
+  {
+    "id": "u09",
+    "name": "Хлебный Эль",
+    "rarity": "uncommon",
+    "points": 1500,
+    "coins": 3,
+    "desc": "Рискнёшь выпить его до дна? Эффект не слабый",
+    "file_id": "https://files.catbox.moe/vr25o4.jpg"
+  },
+  {
+    "id": "u10",
+    "name": "Фильм Пёс",
+    "rarity": "uncommon",
+    "points": 1500,
+    "coins": 3,
+    "desc": "Мощный пёс, который обожает своего хозяина и всегда помогает расследовать дела",
+    "file_id": "https://files.catbox.moe/257tc4.jpg"
+  },
+  {
+    "id": "r01",
+    "name": "Кото-хлеб",
+    "rarity": "rare",
+    "points": 3000,
+    "coins": 5,
+    "desc": "Зачем ты нарезал его буханку? Теперь он расстроен",
+    "file_id": "https://files.catbox.moe/t86qqe.jpg"
+  },
+  {
+    "id": "r02",
+    "name": "Нарисованный хлеб",
+    "rarity": "rare",
+    "points": 3000,
+    "coins": 5,
+    "desc": "Выглядит красиво, жаль съесть нельзя",
+    "file_id": "https://files.catbox.moe/8ml3xu.jpg"
+  },
+  {
+    "id": "r03",
+    "name": "Хлеб-джентельмен",
+    "rarity": "rare",
+    "points": 3000,
+    "coins": 5,
+    "desc": "Хороший костюм, элегантный вид а самое главное, он съедобный",
+    "file_id": "https://files.catbox.moe/wzkz6q.jpg"
+  },
+  {
+    "id": "r04",
+    "name": "Смешной хлебный кот",
+    "rarity": "rare",
+    "points": 3000,
+    "coins": 5,
+    "desc": "Выглядит неплохо, а главное - смеётся. Кот с чувством юмора",
+    "file_id": "https://files.catbox.moe/6ig3p8.jpg"
+  },
+  {
+    "id": "r05",
+    "name": "Настоящие багеты",
+    "rarity": "rare",
+    "points": 3000,
+    "coins": 5,
+    "desc": "Багет - хлеб для настоящих французов, можно использовать в любом рецепте",
+    "file_id": "https://files.catbox.moe/3fo6hg.jpg"
+  },
+  {
+    "id": "r06",
+    "name": "Хлебные скибиди туалеты",
+    "rarity": "rare",
+    "points": 3000,
+    "coins": 5,
+    "desc": "Они добрались даже до сюда, как же их остановить?",
+    "file_id": "https://files.catbox.moe/wc0uci.jpg"
+  },
+  {
+    "id": "r07",
+    "name": "Ужасный хлеб",
+    "rarity": "rare",
+    "points": 3000,
+    "coins": 5,
+    "desc": "Данный хлеб настолько долго лежал на полке, что затвердел и покрылся плесенью",
+    "file_id": "https://files.catbox.moe/dd7isv.jpg"
+  },
+  {
+    "id": "r08",
+    "name": "Хлебная колода",
+    "rarity": "rare",
+    "points": 3000,
+    "coins": 5,
+    "desc": "В этой колоде карт есть многое, но что-то было упущено..",
+    "file_id": "https://files.catbox.moe/cchktv.jpg"
+  },
+  {
+    "id": "r09",
+    "name": "Хлебири хлебила",
+    "rarity": "rare",
+    "points": 3000,
+    "coins": 5,
+    "desc": "Хлебный слон в хлебных тапках по среди хлебной пустыни? Мне нравится.",
+    "file_id": "https://files.catbox.moe/e13g9m.jpg"
+  },
+  {
+    "id": "sr01",
+    "name": "Хлеб захлебнулся",
+    "rarity": "super_rare",
+    "points": 5000,
+    "coins": 7,
+    "desc": "Бедный хлеб.. А ведь он мог ещё жить",
+    "file_id": "https://files.catbox.moe/uipiql.jpg"
+  },
+  {
+    "id": "sr02",
+    "name": "Хлеб с джемом",
+    "rarity": "super_rare",
+    "points": 5000,
+    "coins": 7,
+    "desc": "Вкусненько, особенно с джемом. Каждому на выбор деликатес",
+    "file_id": "https://files.catbox.moe/7bxwpx.jpg"
+  },
+  {
+    "id": "sr03",
+    "name": "Застрявший кот",
+    "rarity": "super_rare",
+    "points": 5000,
+    "coins": 7,
+    "desc": "Зачем кот засунул в хлеб голову? Это же еда",
+    "file_id": "https://files.catbox.moe/tpykz3.jpg"
+  },
+  {
+    "id": "sr04",
+    "name": "Плачущий хлеб",
+    "rarity": "super_rare",
+    "points": 5000,
+    "coins": 7,
+    "desc": "Почему он плачет? Возможно ты его чем-то обидел",
+    "file_id": "https://files.catbox.moe/ba7e86.jpg"
+  },
+  {
+    "id": "sr05",
+    "name": "Хлеб с трещинами",
+    "rarity": "super_rare",
+    "points": 5000,
+    "coins": 7,
+    "desc": "Прекрасен на вкус, мягок на ощупь и просто красиво выглядит",
+    "file_id": "https://files.catbox.moe/n60cog.jpg"
+  },
+  {
+    "id": "sr06",
+    "name": "Заплесневелый хлеб",
+    "rarity": "super_rare",
+    "points": 5000,
+    "coins": 7,
+    "desc": "Долго пролежал, в итоге покрылся плесенью",
+    "file_id": "https://files.catbox.moe/0ddrp5.jpg"
+  },
+  {
+    "id": "sr07",
+    "name": "Хлебная тыква",
+    "rarity": "super_rare",
+    "points": 5000,
+    "coins": 7,
+    "desc": "Скорее одевай свой страшный костюм, мы идём праздновать хеллоуин!",
+    "file_id": "https://files.catbox.moe/rvbjrd.jpg"
+  },
+  {
+    "id": "sr08",
+    "name": "Великий учебник",
+    "rarity": "super_rare",
+    "points": 5000,
+    "coins": 7,
+    "desc": "Учебник из хлеба, который содержит множество тайн Breadcards но способен открыть не каждый",
+    "file_id": "https://files.catbox.moe/ri5bwg.jpg"
+  },
+  {
+    "id": "sr09",
+    "name": "Инопланетный хлеб",
+    "rarity": "super_rare",
+    "points": 5000,
+    "coins": 7,
+    "desc": "На хлебную землю спустилась странная летающая тарелка. Она сбросила светящийся хлеб и просто улетела в космос",
+    "file_id": "https://files.catbox.moe/535m9h.jpg"
+  },
+  {
+    "id": "e01",
+    "name": "Хлеб из СССР",
+    "rarity": "epic",
+    "points": 8000,
+    "coins": 10,
+    "desc": "Хлеб с настоящей советской начинкой, а также рисунком серпа и молота",
+    "file_id": "https://files.catbox.moe/ju9tx5.jpg"
+  },
+  {
+    "id": "e02",
+    "name": "Замороженный хлеб",
+    "rarity": "epic",
+    "points": 8000,
+    "coins": 10,
+    "desc": "Этот хлеб по ощущениям лежал в морозильнике больше нескольких суток, он уже покрылся толстой коркой снега",
+    "file_id": "https://files.catbox.moe/tc9epr.jpg"
+  },
+  {
+    "id": "e03",
+    "name": "Хлеб-doge",
+    "rarity": "epic",
+    "points": 8000,
+    "coins": 10,
+    "desc": "Очень популярная собака с хлебом делает всех популярнее",
+    "file_id": "https://files.catbox.moe/0xdl9g.jpg"
+  },
+  {
+    "id": "e04",
+    "name": "Пирожок",
+    "rarity": "epic",
+    "points": 8000,
+    "coins": 10,
+    "desc": "Легенда школьных столовых, а также просто компактный и аппетитный",
+    "file_id": "https://files.catbox.moe/f534d2.jpg"
+  },
+  {
+    "id": "e05",
+    "name": "Хлебный Роналдо",
+    "rarity": "epic",
+    "points": 8000,
+    "coins": 10,
+    "desc": "Мы облепили его мяч как подарок, хороший игрок",
+    "file_id": "https://files.catbox.moe/2nvhha.jpg"
+  },
+  {
+    "id": "e06",
+    "name": "Франкенхлеб",
+    "rarity": "epic",
+    "points": 8000,
+    "coins": 10,
+    "desc": "Чудовище Франкенхлеб, созданный ученым Виктором Хлебоштейном. Он был собран из фрагментов мертвой плоти, и позже был оживлен",
+    "file_id": "https://files.catbox.moe/p2na5q.jpg"
+  },
+  {
+    "id": "e07",
+    "name": "Радужный хлеб",
+    "rarity": "epic",
+    "points": 8000,
+    "coins": 10,
+    "desc": "Хлеб родился прямо из радуги, из-за чего и стал таким",
+    "file_id": "https://files.catbox.moe/rlpu92.jpg"
+  },
+  {
+    "id": "e08",
+    "name": "Дота из хлеба",
+    "rarity": "epic",
+    "points": 8000,
+    "coins": 10,
+    "desc": "Вселенная Dota, состоящая только из хлеба",
+    "file_id": "https://files.catbox.moe/0vv5uw.jpg"
+  },
+  {
+    "id": "e09",
+    "name": "Хлебанини бананини",
+    "rarity": "epic",
+    "points": 8000,
+    "coins": 10,
+    "desc": "Хлебно банановая обезьяна, живущая в джунглях",
+    "file_id": "https://files.catbox.moe/yhwvyn.jpg"
+  },
+  {
+    "id": "l01",
+    "name": "Лавовый хлеб",
+    "rarity": "legendary",
+    "points": 12000,
+    "coins": 14,
+    "desc": "Этот хлеб выпекли прямо из свежей лавы, не стоит пробовать",
+    "file_id": "https://files.catbox.moe/w58yeq.jpg"
+  },
+  {
+    "id": "l02",
+    "name": "Партия сосисок в тесте",
+    "rarity": "legendary",
+    "points": 12000,
+    "coins": 14,
+    "desc": "Сосиски в тесте не просто булка, а настоящая легенда хлебной выпечки",
+    "file_id": "https://files.catbox.moe/4i3pmj.jpg"
+  },
+  {
+    "id": "l03",
+    "name": "Хлебная собака",
+    "rarity": "legendary",
+    "points": 12000,
+    "coins": 14,
+    "desc": "Это собака состоит полностью из хлеба, также любит какать сердцами из хлеба",
+    "file_id": "https://files.catbox.moe/yt2p36.jpg"
+  },
+  {
+    "id": "l04",
+    "name": "Качественно-нарисованный хлеб",
+    "rarity": "legendary",
+    "points": 12000,
+    "coins": 14,
+    "desc": "Выглядит очень красиво, так и радует глаз. Возможно на него потратили много времени",
+    "file_id": "https://files.catbox.moe/nhqqzj.jpg"
+  },
+  {
+    "id": "l04b",
+    "name": "Легендарный хлеб из чата",
+    "rarity": "legendary",
+    "points": 12000,
+    "coins": 14,
+    "desc": "Данный хлеб является нашим любимым хлебом из всех, он очень подходит для мемов",
+    "file_id": "https://files.catbox.moe/6w5eyj.jpg"
+  },
+  {
+    "id": "l05",
+    "name": "Мёртвый хлеб",
+    "rarity": "legendary",
+    "points": 12000,
+    "coins": 14,
+    "desc": "Зачем ты убил его? Он просто хотел существовать",
+    "file_id": "https://files.catbox.moe/w8g3yv.jpg"
+  },
+  {
+    "id": "l06",
+    "name": "Хлеб-Монстр",
+    "rarity": "legendary",
+    "points": 12000,
+    "coins": 14,
+    "desc": "Над нём проводили эксперименты, и он превратился в это.. Помоему его уже не уничтожить",
+    "file_id": "https://files.catbox.moe/bcv5k9.jpg"
+  },
+  {
+    "id": "l07",
+    "name": "Майнкрафт из хлеба",
+    "rarity": "legendary",
+    "points": 12000,
+    "coins": 14,
+    "desc": "Не удалось передать полный аватар игры майнкрафт но всё же, он им и является",
+    "file_id": "https://files.catbox.moe/npqe0d.jpg"
+  },
+  {
+    "id": "l08",
+    "name": "Эль Хлебос",
+    "rarity": "legendary",
+    "points": 12000,
+    "coins": 14,
+    "desc": "Так маленький ящик... ЭЛЬ ХЛЕБОС, ЭЛЬ ХЛЕБОСС о 10 монеток",
+    "file_id": "https://files.catbox.moe/7oppju.jpg"
+  },
+  {
+    "id": "l09",
+    "name": "Хлебный гарамграрамгарам анд мадундунг",
+    "rarity": "legendary",
+    "points": 12000,
+    "coins": 14,
+    "desc": "Хлебные соль и мед из Италии. Что нужно еще для счастья?",
+    "file_id": "https://files.catbox.moe/0tck81.jpg"
+  },
+  {
+    "id": "l10",
+    "name": "Хлебный толстяк",
+    "rarity": "legendary",
+    "points": 12000,
+    "coins": 14,
+    "desc": "Это великая бомба, которая повлекла серьёзный взрыв",
+    "file_id": "https://files.catbox.moe/6ijoov.jpg"
+  },
+  {
+    "id": "ul01",
+    "name": "Хлеб с дыркой",
+    "rarity": "ultra",
+    "points": 18000,
+    "coins": 18,
+    "desc": "«Я экспериментировал с хлебом!» сказал мой друг однажды",
+    "file_id": "https://files.catbox.moe/hfkw5u.jpg"
+  },
+  {
+    "id": "ul02",
+    "name": "Мужик-хлеб",
+    "rarity": "ultra",
+    "points": 18000,
+    "coins": 18,
+    "desc": "Это реально хлеб на подобии человека, у него есть любые конечности",
+    "file_id": "https://files.catbox.moe/0l7m91.jpg"
+  },
+  {
+    "id": "ul03",
+    "name": "Мужик с хлебом",
+    "rarity": "ultra",
+    "points": 18000,
+    "coins": 18,
+    "desc": "Вот это счастье.. собака, хлеб и сам мужик. Нигде такой батон не найдёшь",
+    "file_id": "https://files.catbox.moe/1usi1c.jpg"
+  },
+  {
+    "id": "ul04",
+    "name": "Владимир Хлебович",
+    "rarity": "ultra",
+    "points": 18000,
+    "coins": 18,
+    "desc": "Владимир реально превратился в хлеб ради бессмертия",
+    "file_id": "https://files.catbox.moe/5qv81o.jpg"
+  },
+  {
+    "id": "ul05",
+    "name": "С.П.А.С.И.Б.О",
+    "rarity": "ultra",
+    "points": 18000,
+    "coins": 18,
+    "desc": "Ты рисовал когда нибудь на хлебе? А я да и вот что получилось",
+    "file_id": "https://files.catbox.moe/qexc8y.jpg"
+  },
+  {
+    "id": "ul06",
+    "name": "Хлебный Тимофей Кулямов",
+    "rarity": "ultra",
+    "points": 18000,
+    "coins": 18,
+    "desc": "Хлебный убийца, который порезал и скушал Хлебного Кобилджона в Успенской школе",
+    "file_id": "https://files.catbox.moe/0cfxwp.jpg"
+  },
+  {
+    "id": "ul07",
+    "name": "Хлебный арсенал",
+    "rarity": "ultra",
+    "points": 18000,
+    "coins": 18,
+    "desc": "С помощью данного набора, можно захватить целую вселенную BreadCards",
+    "file_id": "https://files.catbox.moe/inkezo.jpg"
+  },
+  {
+    "id": "ul08",
+    "name": "Хлебо-Тян",
+    "rarity": "ultra",
+    "points": 18000,
+    "coins": 18,
+    "desc": "Милые девушки, которые просто обожают хлеб",
+    "file_id": "https://files.catbox.moe/vsqwm8.jpg"
+  },
+  {
+    "id": "ul09",
+    "name": "Хлебный Бандера",
+    "rarity": "ultra",
+    "points": 18000,
+    "coins": 18,
+    "desc": "Этот хлеб готов поднять восстание на любой кухне",
+    "file_id": "https://files.catbox.moe/pz8m7e.jpg"
+  },
+  {
+    "id": "ul10",
+    "name": "Чикенган",
+    "rarity": "ultra",
+    "points": 18000,
+    "coins": 18,
+    "desc": "Молодёжная игра, играй за петуха и сражайся с такими же как ты",
+    "file_id": "https://files.catbox.moe/1tiolx.jpg"
+  },
+  {
+    "id": "m01",
+    "name": "Поджаренный doge",
+    "rarity": "mythic",
+    "points": 25000,
+    "coins": 25,
+    "desc": "Его нарезали, добавили приправ и засунули в тостер. Теперь он собака с хрустящей корочкой",
+    "file_id": "https://files.catbox.moe/iq2kpp.jpg"
+  },
+  {
+    "id": "m02",
+    "name": "Испуганный кото-хлеб",
+    "rarity": "mythic",
+    "points": 25000,
+    "coins": 25,
+    "desc": "Этот кото-хлеб видимо увидел то, что его по настоящему пугает",
+    "file_id": "https://files.catbox.moe/wx0c2h.jpg"
+  },
+  {
+    "id": "m03",
+    "name": "Яйцо?",
+    "rarity": "mythic",
+    "points": 25000,
+    "coins": 25,
+    "desc": "Зачем ты забрал моё левое яйцо из холодильника?",
+    "file_id": "https://files.catbox.moe/ui54vn.jpg"
+  },
+  {
+    "id": "m04",
+    "name": "Хлебный шпион",
+    "rarity": "mythic",
+    "points": 25000,
+    "coins": 25,
+    "desc": "Этот шпион может скрываться среди любого хлеба! Даже если ты не подозреваешь..",
+    "file_id": "https://files.catbox.moe/z9qn7e.jpg"
+  },
+  {
+    "id": "m05",
+    "name": "Гигахлеб",
+    "rarity": "mythic",
+    "points": 25000,
+    "coins": 25,
+    "desc": "Этот хлеб реально очень крут, смотря по его формам",
+    "file_id": "https://files.catbox.moe/5eed8d.jpg"
+  },
+  {
+    "id": "m06",
+    "name": "Хлебный Кобилджон Алиев",
+    "rarity": "mythic",
+    "points": 25000,
+    "coins": 25,
+    "desc": "Хлебный мальчик который был порезан и скушан в успенской школе",
+    "file_id": "https://files.catbox.moe/8b80sn.jpg"
+  },
+  {
+    "id": "m07",
+    "name": "Великая башня",
+    "rarity": "mythic",
+    "points": 25000,
+    "coins": 25,
+    "desc": "Данная башня защищает ворота в вселенную BreadCards",
+    "file_id": "https://files.catbox.moe/dt4rsi.jpg"
+  },
+  {
+    "id": "m08",
+    "name": "Хлебное Тсунами",
+    "rarity": "mythic",
+    "points": 25000,
+    "coins": 25,
+    "desc": "Это тсунами способно снести несколько городов. Но помнишь ли ты о нубике?",
+    "file_id": "https://files.catbox.moe/1nokdj.jpg"
+  },
+  {
+    "id": "m09",
+    "name": "Хлебный слоник",
+    "rarity": "mythic",
+    "points": 25000,
+    "coins": 25,
+    "desc": "Это хлеееб! Это хлеееб!",
+    "file_id": "https://files.catbox.moe/whj9vd.jpg"
+  },
+  {
+    "id": "un01",
+    "name": "Титанический хлеб",
+    "rarity": "unique",
+    "points": 40000,
+    "coins": 40,
+    "desc": "Ого.. Он и вправду огромен. Больше чем какой-то корабль",
+    "file_id": "https://files.catbox.moe/s9ls6a.jpg"
+  },
+  {
+    "id": "un02",
+    "name": "Мемный хлеб",
+    "rarity": "unique",
+    "points": 40000,
+    "coins": 40,
+    "desc": "Это цитата слишком правдивая, почти никто не ценит хлеб",
+    "file_id": "https://files.catbox.moe/rjf6bn.jpg"
+  },
+  {
+    "id": "un03",
+    "name": "Арбузный хлеб",
+    "rarity": "unique",
+    "points": 40000,
+    "coins": 40,
+    "desc": "Ммм.. Он так аппетитно выглядит, я бы обязательно попробовал",
+    "file_id": "https://files.catbox.moe/may7fu.jpg"
+  },
+  {
+    "id": "un04",
+    "name": "Мандарин?",
+    "rarity": "unique",
+    "points": 40000,
+    "coins": 40,
+    "desc": "Почему тут мандарин? Мне кажется что-то попутали",
+    "file_id": "https://files.catbox.moe/u2xxrd.jpg"
+  },
+  {
+    "id": "un05",
+    "name": "Хлеб из булыжника",
+    "rarity": "unique",
+    "points": 40000,
+    "coins": 40,
+    "desc": "Выглядит прикольно но я бы не стал пробовать.. Зубы сломаешь",
+    "file_id": "https://files.catbox.moe/knscrp.jpg"
+  },
+  {
+    "id": "un06",
+    "name": "Дом из хлеба",
+    "rarity": "unique",
+    "points": 40000,
+    "coins": 40,
+    "desc": "Если хлеб окрепнет, дом станет пригодным для житья, но со временем он станет плесневеть",
+    "file_id": "https://files.catbox.moe/3u1rwp.jpg"
+  },
+  {
+    "id": "un07",
+    "name": "Kawaii хлеб",
+    "rarity": "unique",
+    "points": 40000,
+    "coins": 40,
+    "desc": "Такой милый, но я бы поэкспериментировал с ним😈😈",
+    "file_id": "https://files.catbox.moe/ybtym1.jpg"
+  },
+  {
+    "id": "un07b",
+    "name": "Пончик со спущёнкой",
+    "rarity": "unique",
+    "points": 40000,
+    "coins": 40,
+    "desc": "Я не знаю кто любит спущёнку, но могу сказать что вкус оно особо и не меняет. Даже не спрашивайте откуда я знаю",
+    "file_id": "https://files.catbox.moe/fderq8.jpg"
+  },
+  {
+    "id": "un08b",
+    "name": "Хлебная компания",
+    "rarity": "unique",
+    "points": 40000,
+    "coins": 40,
+    "desc": "Да в этой бане все есть! И хлеб Флойд, и Сёма нивеа хлеб, кого тут только нет блин. Как же прекрасно!",
+    "file_id": "https://files.catbox.moe/8tfxlu.jpg"
+  },
+  {
+    "id": "un09",
+    "name": "Хлебный доллар",
+    "rarity": "unique",
+    "points": 40000,
+    "coins": 40,
+    "desc": "Ты готов переезжать в хлебный США? Поехали!",
+    "file_id": "https://files.catbox.moe/tbgmjl.jpg"
+  },
+  {
+    "id": "un10",
+    "name": "Хлебный всадник без головы",
+    "rarity": "unique",
+    "points": 40000,
+    "coins": 40,
+    "desc": "Безголовый наездник, обитающий в hleeby hollow, Нью хлеб. Раньше был хлебным солдатом, но потом умер и стал призраком который досихпор обитает в hleeby hollow и создает из заблудившихся странников своих приспешников",
+    "file_id": "https://files.catbox.moe/uv89ya.jpg"
+  },
+  {
+    "id": "un11",
+    "name": "Великие таблетки",
+    "rarity": "unique",
+    "points": 40000,
+    "coins": 40,
+    "desc": "От хлеба ты начал страдать шизофренией, но великий доктор прописал тебе данные таблетки которые ты пьёшь каждый день. И они и вправду помогают!",
+    "file_id": "https://files.catbox.moe/u3ff9t.jpg"
+  },
+  {
+    "id": "lim01",
+    "name": "Правое яйцо",
+    "rarity": "limited",
+    "points": 0,
+    "coins": 0,
+    "desc": "Это правое яйцо из моего холодильника, является лимитной вещью",
+    "file_id": "https://files.catbox.moe/anbuyj.jpg"
+  },
+  {
+    "id": "lim02",
+    "name": "Хледольфио",
+    "rarity": "limited",
+    "points": 0,
+    "coins": 0,
+    "desc": "Главнокомандующий с 1943 года, любимый персонаж для шуток",
+    "file_id": "https://files.catbox.moe/j1c2qw.jpg"
+  },
+  {
+    "id": "lim03",
+    "name": "Любимый флоппа",
+    "rarity": "limited",
+    "points": 0,
+    "coins": 0,
+    "desc": "Создатель одержим котами, особенно шлёпами. Обожаю",
+    "file_id": ""
+  },
+  {
+    "id": "lim04",
+    "name": "Охладитель для хлеба",
+    "rarity": "limited",
+    "points": 0,
+    "coins": 0,
+    "desc": "Сначало это был охладитель для арбузов, но теперь для хлеба. Я не знаю зачем придумали эту штуку",
+    "file_id": "https://files.catbox.moe/tu84s8.jpg"
+  },
+  {
+    "id": "lim05",
+    "name": "Моаи хлеб",
+    "rarity": "limited",
+    "points": 0,
+    "coins": 0,
+    "desc": "Серьёзно, это моаи камни просто их хлеба. УУУУУ",
+    "file_id": "https://files.catbox.moe/rkaw05.jpg"
+  },
+  {
+    "id": "lim06",
+    "name": "Админский хлеб",
+    "rarity": "limited",
+    "points": 0,
+    "coins": 0,
+    "desc": "Кто это вообще придумал? Я бы не добавлял это но ладно..",
+    "file_id": "https://files.catbox.moe/rpsqop.jpg"
+  },
+  {
+    "id": "lim07",
+    "name": "Человечек из хлеба",
+    "rarity": "limited",
+    "points": 0,
+    "coins": 0,
+    "desc": "Несколько батонов хлеба объединили в один, похожий на человека и добавили улыбку",
+    "file_id": "https://files.catbox.moe/4cewb5.jpg"
+  },
+  {
+    "id": "lim08",
+    "name": "Золотой хлеб",
+    "rarity": "limited",
+    "points": 0,
+    "coins": 0,
+    "desc": "Этот хлеб сделан из чистого золота, а золото очень мягкое",
+    "file_id": "https://files.catbox.moe/che1xp.jpg"
+  },
+  {
+    "id": "lim09",
+    "name": "Заражённый хлеб",
+    "rarity": "limited",
+    "points": 0,
+    "coins": 0,
+    "desc": "Данный хлеб подвергся мутации от зомби вируса, ну а так был взят из ТФ2. Он очень опасен, лучше не пытайся его съесть",
+    "file_id": "https://files.catbox.moe/8gse82.jpg"
+  },
+  {
+    "id": "lim10",
+    "name": "Хлебные слоты",
+    "rarity": "limited",
+    "points": 0,
+    "coins": 0,
+    "desc": "Ваши любимые хлебные слоты специально для лудоманов! Советую избавится от данной привычки, прошу..",
+    "file_id": "https://files.catbox.moe/emhizr.jpg"
+  },
+  {
+    "id": "lim11",
+    "name": "Хлебобанкомат",
+    "rarity": "limited",
+    "points": 0,
+    "coins": 0,
+    "desc": "ХЛЕБОБАНК выдает наличными и булками хлеба. Приятно? А то!",
+    "file_id": "https://files.catbox.moe/ndv9ms.jpg"
+  },
+  {
+    "id": "lim12",
+    "name": "Тунг тунг тунг хлебун",
+    "rarity": "limited",
+    "points": 0,
+    "coins": 0,
+    "desc": "Страх всей хлебной Италии в 2025 году. Сильнейший в своем роде хлеб",
+    "file_id": "https://files.catbox.moe/mdv9d8.jpg"
+  },
+  {
+    "id": "lim13",
+    "name": "Colgate кот",
+    "rarity": "limited",
+    "points": 0,
+    "coins": 0,
+    "desc": "Великий кот из Upzza, но у них же собака..",
+    "file_id": "https://files.catbox.moe/otz904.jpg"
+  },
